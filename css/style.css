@@ -59,7 +59,7 @@ html {
     width:25rem;
     height:28rem;
     object-fit:cover;
-    border-radius:50%;
+    border-radius:80%;
     border:.7rem dotted #e41c6f;
     background-color: rgba(255,255,255,0.7);
     padding:0.5rem;
